@@ -1,0 +1,7 @@
+C:\Dropbox\1\App\NameSorter\bin\Debug\NameSorter.exe.config
+C:\Dropbox\1\App\NameSorter\bin\Debug\NameSorter.exe
+C:\Dropbox\1\App\NameSorter\bin\Debug\NameSorter.pdb
+C:\Dropbox\1\App\NameSorter\obj\Debug\NameSorter.csprojAssemblyReference.cache
+C:\Dropbox\1\App\NameSorter\obj\Debug\NameSorter.csproj.CoreCompileInputs.cache
+C:\Dropbox\1\App\NameSorter\obj\Debug\NameSorter.exe
+C:\Dropbox\1\App\NameSorter\obj\Debug\NameSorter.pdb
